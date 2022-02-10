@@ -8,6 +8,7 @@
     "require": {
         "php": ">=7.4",
         "drupal/core": "^9.2",
+        "openeuropa/oe_corporate_site_info": "^1.0"
     },
     "require-dev": {
         "behat/behat": "^3.10",
