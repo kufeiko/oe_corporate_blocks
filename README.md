@@ -1,4 +1,4 @@
-# OpenEuropa Corporate Blocks
+# OpenEuropa Corporate Blocks Fork
 
 [![Build Status](https://drone.fpfis.eu/api/badges/openeuropa/oe_corporate_blocks/status.svg?branch=master)](https://drone.fpfis.eu/openeuropa/oe_corporate_blocks)
 
@@ -13,6 +13,8 @@
 ## Description
 
 OpenEuropa Corporate Blocks is a Drupal module built to contain European Commission corporate blocks.
+
+This for does not use sparql storage, at least until migration to Drupal 9 is complete!
 
 This currently contains:
 
