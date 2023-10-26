@@ -121,8 +121,8 @@ msgstr "https://edpb.europa.eu/edpb_sk"
 msgid "European Personnel Selection Office"
 msgstr "Európsky úrad pre výber pracovníkov"
 
-msgid "https://epso.europa.eu/home_en"
-msgstr "https://epso.europa.eu/home_sk"
+msgid "https://epso.europa.eu/en"
+msgstr "https://epso.europa.eu/sk"
 
 msgid "Publications Office of the European Union"
 msgstr "Úrad pre vydávanie publikácií Európskej únie"
@@ -142,14 +142,14 @@ msgstr "O tejto lokalite"
 msgid "https://europa.eu/european-union/abouteuropa_en"
 msgstr "https://europa.eu/european-union/abouteuropa_sk"
 
-msgid "Language policy"
-msgstr "Jazyková politika"
-
 msgid "Languages on our websites"
 msgstr "Jazyky na našich webových stránkach"
 
 msgid "https://european-union.europa.eu/languages-our-websites_en"
 msgstr "https://european-union.europa.eu/languages-our-websites_sk"
+
+msgid "https://commission.europa.eu/languages-our-websites_en"
+msgstr "https://commission.europa.eu/languages-our-websites_sk"
 
 msgid "Privacy policy"
 msgstr "Politika ochrany osobných údajov"
@@ -175,95 +175,98 @@ msgstr "https://european-union.europa.eu/cookies_sk"
 msgid "Accessibility"
 msgstr "Prístupnosť"
 
-msgid "https://european-union.europa.eu/web-accessibility-policy_en"
-msgstr "https://european-union.europa.eu/web-accessibility-policy_sk"
+msgid "https://european-union.europa.eu/accessibility-statement_en"
+msgstr "https://european-union.europa.eu/accessibility-statement_sk"
 
-msgid "https://ec.europa.eu/info/index_en"
-msgstr "https://ec.europa.eu/info/index_sk"
+msgid "https://commission.europa.eu/accessibility-statement_en"
+msgstr "https://commission.europa.eu/accessibility-statement_sk"
+
+msgid "https://commission.europa.eu/index_en"
+msgstr "https://commission.europa.eu/index_sk"
 
 msgid "European Commission website"
 msgstr "Internetové stránky Európskej komisie"
 
-msgid "https://ec.europa.eu/info/strategy_en"
-msgstr "https://ec.europa.eu/info/strategy_sk"
+msgid "https://commission.europa.eu/strategy_en"
+msgstr "https://commission.europa.eu/strategy_sk"
 
 msgid "Strategy"
 msgstr "Stratégia"
 
-msgid "https://ec.europa.eu/info/about-european-commission_en"
-msgstr "https://ec.europa.eu/info/about-european-commission_sk"
+msgid "https://commission.europa.eu/about-european-commission_en"
+msgstr "https://commission.europa.eu/about-european-commission_sk"
 
 msgid "About the European Commission"
 msgstr "O Európskej komisii"
 
-msgid "https://ec.europa.eu/info/business-economy-euro_en"
-msgstr "https://ec.europa.eu/info/business-economy-euro_sk"
+msgid "https://commission.europa.eu/business-economy-euro_en"
+msgstr "https://commission.europa.eu/business-economy-euro_sk"
 
 msgid "Business, Economy, Euro"
 msgstr "Podnikanie, hospodárstvo, euro"
 
-msgid "https://ec.europa.eu/info/live-work-travel-eu_en"
-msgstr "https://ec.europa.eu/info/live-work-travel-eu_sk"
+msgid "https://commission.europa.eu/live-work-travel-eu_en"
+msgstr "https://commission.europa.eu/live-work-travel-eu_sk"
 
 msgid "Live, work, travel in the EU"
 msgstr "Život, práca a cestovanie v EÚ"
 
-msgid "https://ec.europa.eu/info/law_en"
-msgstr "https://ec.europa.eu/info/law_sk"
+msgid "https://commission.europa.eu/law_en"
+msgstr "https://commission.europa.eu/law_sk"
 
 msgid "Law"
 msgstr "Právo"
 
-msgid "https://ec.europa.eu/info/funding-tenders_en"
-msgstr "https://ec.europa.eu/info/funding-tenders_sk"
+msgid "https://commission.europa.eu/funding-tenders_en"
+msgstr "https://commission.europa.eu/funding-tenders_sk"
 
 msgid "Funding, Tenders"
 msgstr "Financovanie, verejné súťaže"
 
-msgid "https://ec.europa.eu/info/research-and-innovation_en"
-msgstr "https://ec.europa.eu/info/research-and-innovation_sk"
+msgid "https://commission.europa.eu/research-and-innovation_en"
+msgstr "https://commission.europa.eu/research-and-innovation_sk"
 
 msgid "Research and innovation"
 msgstr "Výskum a inovácie"
 
-msgid "https://ec.europa.eu/info/energy-climate-change-environment_en"
-msgstr "https://ec.europa.eu/info/energy-climate-change-environment_sk"
+msgid "https://commission.europa.eu/energy-climate-change-environment_en"
+msgstr "https://commission.europa.eu/energy-climate-change-environment_sk"
 
 msgid "Energy, Climate change, Environment"
 msgstr "Energetika, zmena klímy, životné prostredie"
 
-msgid "https://ec.europa.eu/info/education_en"
-msgstr "https://ec.europa.eu/info/education_sk"
+msgid "https://commission.europa.eu/education_en"
+msgstr "https://commission.europa.eu/education_sk"
 
 msgid "Education"
 msgstr "Vzdelávanie"
 
-msgid "https://ec.europa.eu/info/aid-development-cooperation-fundamental-rights_en"
-msgstr "https://ec.europa.eu/info/aid-development-cooperation-fundamental-rights_sk"
+msgid "https://commission.europa.eu/aid-development-cooperation-fundamental-rights_en"
+msgstr "https://commission.europa.eu/aid-development-cooperation-fundamental-rights_sk"
 
 msgid "Aid, Development cooperation, Fundamental rights"
 msgstr "Pomoc, rozvojová spolupráca, základné práva"
 
-msgid "https://ec.europa.eu/info/food-farming-fisheries_en"
-msgstr "https://ec.europa.eu/info/food-farming-fisheries_sk"
+msgid "https://commission.europa.eu/food-farming-fisheries_en"
+msgstr "https://commission.europa.eu/food-farming-fisheries_sk"
 
 msgid "Food, Farming, Fisheries"
 msgstr "Potraviny, poľnohospodárstvo, rybárstvo"
 
-msgid "https://ec.europa.eu/info/eu-regional-and-urban-development_en"
-msgstr "https://ec.europa.eu/info/eu-regional-and-urban-development_sk"
+msgid "https://commission.europa.eu/eu-regional-and-urban-development_en"
+msgstr "https://commission.europa.eu/eu-regional-and-urban-development_sk"
 
 msgid "EU regional and urban development"
 msgstr "Investície EÚ do regiónov a miest"
 
-msgid "https://ec.europa.eu/info/jobs-european-commission_en"
-msgstr "https://ec.europa.eu/info/jobs-european-commission_sk"
+msgid "https://commission.europa.eu/jobs-european-commission_en"
+msgstr "https://commission.europa.eu/jobs-european-commission_sk"
 
 msgid "Jobs at the European Commission"
 msgstr "Pracovné miesta v Európskej komisii"
 
-msgid "https://ec.europa.eu/info/statistics_en"
-msgstr "https://ec.europa.eu/info/statistics_sk"
+msgid "https://commission.europa.eu/statistics_en"
+msgstr "https://commission.europa.eu/statistics_sk"
 
 msgid "Statistics"
 msgstr "Štatistiky"
@@ -274,20 +277,20 @@ msgstr "https://ec.europa.eu/commission/presscorner/home/sk"
 msgid "News"
 msgstr "Aktuality"
 
-msgid "https://ec.europa.eu/info/events_en"
-msgstr "https://ec.europa.eu/info/events_sk"
+msgid "https://commission.europa.eu/events_en"
+msgstr "https://commission.europa.eu/events_sk"
 
 msgid "Events"
 msgstr "Podujatia"
 
-msgid "https://ec.europa.eu/info/publications_en"
-msgstr "https://ec.europa.eu/info/publications_sk"
+msgid "https://commission.europa.eu/publications_en"
+msgstr "https://commission.europa.eu/publications_sk"
 
 msgid "Publications"
 msgstr "Publikácie"
 
-msgid "https://ec.europa.eu/info/about-european-commission/contact_en"
-msgstr "https://ec.europa.eu/info/about-european-commission/contact_sk"
+msgid "https://commission.europa.eu/about-european-commission/contact_en"
+msgstr "https://commission.europa.eu/about-european-commission/contact_sk"
 
 msgid "Contact the European Commission"
 msgstr "Kontakty na Európsku komisiu"
@@ -298,23 +301,23 @@ msgstr "https://european-union.europa.eu/contact-eu/social-media-channels_sk#/se
 msgid "Follow the European Commission on social media"
 msgstr "Sledujte Európsku komisiu na sociálnych médiách"
 
-msgid "https://ec.europa.eu/info/resources-partners_en"
-msgstr "https://ec.europa.eu/info/resources-partners_sk"
+msgid "https://commission.europa.eu/resources-partners_en"
+msgstr "https://commission.europa.eu/resources-partners_sk"
 
 msgid "Resources for partners"
 msgstr "Materiály pre partnerov"
 
-msgid "https://ec.europa.eu/info/language-policy_en"
-msgstr "https://ec.europa.eu/info/language-policy_sk"
+msgid "https://commission.europa.eu/language-policy_en"
+msgstr "https://commission.europa.eu/language-policy_sk"
 
-msgid "https://ec.europa.eu/info/cookies_en"
-msgstr "https://ec.europa.eu/info/cookies_sk"
+msgid "https://commission.europa.eu/cookies_en"
+msgstr "https://commission.europa.eu/cookies_sk"
 
-msgid "https://ec.europa.eu/info/privacy-policy_en"
-msgstr "https://ec.europa.eu/info/privacy-policy_sk"
+msgid "https://commission.europa.eu/privacy-policy_en"
+msgstr "https://commission.europa.eu/privacy-policy_sk"
 
-msgid "https://ec.europa.eu/info/legal-notice_en"
-msgstr "https://ec.europa.eu/info/legal-notice_sk"
+msgid "https://commission.europa.eu/legal-notice_en"
+msgstr "https://commission.europa.eu/legal-notice_sk"
 
 msgid "Social media"
 msgstr "Sociálne médiá"

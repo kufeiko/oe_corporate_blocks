@@ -1,4 +1,100 @@
-# Changelog
+# Change Log
+
+## [4.14.0](https://github.com/openeuropa/oe_corporate_blocks/tree/4.14.0) (2023-06-21)
+[Full Changelog](https://github.com/openeuropa/oe_corporate_blocks/compare/4.13.0...4.14.0)
+
+**Merged pull requests:**
+
+- EWPP-3264: Change site footer string and translations. [\#134](https://github.com/openeuropa/oe_corporate_blocks/pull/134) ([nagyad](https://github.com/nagyad))
+
+## [4.13.0](https://github.com/openeuropa/oe_corporate_blocks/tree/4.13.0) (2023-04-14)
+[Full Changelog](https://github.com/openeuropa/oe_corporate_blocks/compare/4.12.0...4.13.0)
+
+**Closed issues:**
+
+- TypeError: preg\_match\(\): Argument \#2 \($subject\) must be of type string, null given [\#130](https://github.com/openeuropa/oe_corporate_blocks/issues/130)
+- Unable to install oe\_corporate\_blocks [\#129](https://github.com/openeuropa/oe_corporate_blocks/issues/129)
+
+**Merged pull requests:**
+
+- EWPP-3012: Drupal 10 compatibility. [\#131](https://github.com/openeuropa/oe_corporate_blocks/pull/131) ([brummbar](https://github.com/brummbar))
+
+## [4.12.0](https://github.com/openeuropa/oe_corporate_blocks/tree/4.12.0) (2023-03-13)
+[Full Changelog](https://github.com/openeuropa/oe_corporate_blocks/compare/4.11.0...4.12.0)
+
+**Merged pull requests:**
+
+- Release-4.12.0: Update changelog. [\#128](https://github.com/openeuropa/oe_corporate_blocks/pull/128) ([nagyad](https://github.com/nagyad))
+- EWPP-2994: Update corporate site info dependency. [\#127](https://github.com/openeuropa/oe_corporate_blocks/pull/127) ([nagyad](https://github.com/nagyad))
+- EWPP-2893: Update site owner message of EU footer. [\#125](https://github.com/openeuropa/oe_corporate_blocks/pull/125) ([22Alexandra](https://github.com/22Alexandra))
+- EWPP-2883: Updates 'Language policy' label and link of EC footer data. [\#124](https://github.com/openeuropa/oe_corporate_blocks/pull/124) ([22Alexandra](https://github.com/22Alexandra))
+- OEL-2115: Update to PHP 8.1. [\#123](https://github.com/openeuropa/oe_corporate_blocks/pull/123) ([brummbar](https://github.com/brummbar))
+
+## [4.11.0](https://github.com/openeuropa/oe_corporate_blocks/tree/4.11.0) (2023-01-03)
+[Full Changelog](https://github.com/openeuropa/oe_corporate_blocks/compare/4.10.0...4.11.0)
+
+**Merged pull requests:**
+
+- Release-4.11.0: Update changelog. [\#122](https://github.com/openeuropa/oe_corporate_blocks/pull/122) ([nagyad](https://github.com/nagyad))
+- EWPP-2827: URL change of core site. [\#120](https://github.com/openeuropa/oe_corporate_blocks/pull/120) ([nagyad](https://github.com/nagyad))
+
+## [4.10.0](https://github.com/openeuropa/oe_corporate_blocks/tree/4.10.0) (2022-12-05)
+
+[Full Changelog](https://github.com/openeuropa/oe_corporate_blocks/compare/4.9.0...4.10.0)
+
+**Merged pull requests:**
+
+- Prepare release 4.10.0. [\#121](https://github.com/openeuropa/oe_corporate_blocks/pull/121) ([imanoleguskiza](https://github.com/imanoleguskiza))
+- EWPP-2831: Add Accessibility link into EC footer. [\#119](https://github.com/openeuropa/oe_corporate_blocks/pull/119) ([sergepavle](https://github.com/sergepavle))
+- EWPP-2666: Fix the 'European Personnel Selection Office' translation for the Finnish language. [\#117](https://github.com/openeuropa/oe_corporate_blocks/pull/117) ([sergepavle](https://github.com/sergepavle))
+
+## [4.9.0](https://github.com/openeuropa/oe_corporate_blocks/tree/4.9.0) (2022-11-04)
+
+[Full Changelog](https://github.com/openeuropa/oe_corporate_blocks/compare/4.8.0...4.9.0)
+
+**Merged pull requests:**
+
+- Prepare release 4.9.0. [\#118](https://github.com/openeuropa/oe_corporate_blocks/pull/118) ([imanoleguskiza](https://github.com/imanoleguskiza))
+- EWPP-2596: Update EPSO link in EU footer. [\#116](https://github.com/openeuropa/oe_corporate_blocks/pull/116) ([22Alexandra](https://github.com/22Alexandra))
+
+## [4.8.0](https://github.com/openeuropa/oe_corporate_blocks/tree/4.8.0) (2022-08-02)
+
+[Full Changelog](https://github.com/openeuropa/oe_corporate_blocks/compare/4.7.0...4.8.0)
+
+**Merged pull requests:**
+
+- Prepare release 4.8.0. [\#115](https://github.com/openeuropa/oe_corporate_blocks/pull/115) ([imanoleguskiza](https://github.com/imanoleguskiza))
+- EWPP-2375: Add Luxembourgish string translations. [\#114](https://github.com/openeuropa/oe_corporate_blocks/pull/114) ([22Alexandra](https://github.com/22Alexandra))
+- EWPP-2358: Drupal 9.4 support. [\#113](https://github.com/openeuropa/oe_corporate_blocks/pull/113) ([yenyasinn](https://github.com/yenyasinn))
+
+## [4.7.0](https://github.com/openeuropa/oe_corporate_blocks/tree/4.7.0) (2022-04-11)
+
+[Full Changelog](https://github.com/openeuropa/oe_corporate_blocks/compare/4.6.0...4.7.0)
+
+**Merged pull requests:**
+
+- Prepare release 4.7.0. [\#112](https://github.com/openeuropa/oe_corporate_blocks/pull/112) ([imanoleguskiza](https://github.com/imanoleguskiza))
+- EWPP-2125: Add translation for ru language. [\#111](https://github.com/openeuropa/oe_corporate_blocks/pull/111) ([sergepavle](https://github.com/sergepavle))
+- EWPP-2101: Add translation for ukrainian and chinese languages. [\#110](https://github.com/openeuropa/oe_corporate_blocks/pull/110) ([sergepavle](https://github.com/sergepavle))
+
+## [4.6.0](https://github.com/openeuropa/oe_corporate_blocks/tree/4.6.0) (2022-03-07)
+
+[Full Changelog](https://github.com/openeuropa/oe_corporate_blocks/compare/4.5.0...4.6.0)
+
+**Merged pull requests:**
+
+- Prepare release-4.6.0. [\#109](https://github.com/openeuropa/oe_corporate_blocks/pull/109) ([imanoleguskiza](https://github.com/imanoleguskiza))
+- EWPP-2009: Add default config hash for post\_update helper method. [\#108](https://github.com/openeuropa/oe_corporate_blocks/pull/108) ([22Alexandra](https://github.com/22Alexandra))
+
+## [4.5.0](https://github.com/openeuropa/oe_corporate_blocks/tree/4.5.0) (2022-02-17)
+
+[Full Changelog](https://github.com/openeuropa/oe_corporate_blocks/compare/4.4.0...4.5.0)
+
+**Merged pull requests:**
+
+- Release-4.5.0: Update changelog. [\#107](https://github.com/openeuropa/oe_corporate_blocks/pull/107) ([nagyad](https://github.com/nagyad))
+- EWPP-1896: Update to PHP8 [\#104](https://github.com/openeuropa/oe_corporate_blocks/pull/104) ([yenyasinn](https://github.com/yenyasinn))
+- EWPP-1782: Fix translations in EU footer. [\#102](https://github.com/openeuropa/oe_corporate_blocks/pull/102) ([mferran-europe](https://github.com/mferran-europe))
 
 ## [4.4.0](https://github.com/openeuropa/oe_corporate_blocks/tree/4.4.0) (2021-12-06)
 
@@ -6,6 +102,7 @@
 
 **Merged pull requests:**
 
+- Prepare release 4.4.0. [\#100](https://github.com/openeuropa/oe_corporate_blocks/pull/100) ([imanoleguskiza](https://github.com/imanoleguskiza))
 - EWPP-1740: Add adjusting regarding changes in eu footer. [\#98](https://github.com/openeuropa/oe_corporate_blocks/pull/98) ([sergepavle](https://github.com/sergepavle))
 - Include missing translation for "Social media" [\#97](https://github.com/openeuropa/oe_corporate_blocks/pull/97) ([lisotton](https://github.com/lisotton))
 
